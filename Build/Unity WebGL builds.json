@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Ozon v0.1",
+"dataUrl": "Unity WebGL builds.data.unityweb",
+"wasmCodeUrl": "Unity WebGL builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity WebGL builds.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
